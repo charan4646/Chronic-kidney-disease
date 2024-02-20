@@ -1,0 +1,16 @@
+Explanation:
+
+Load your CKD dataset (replace 'your_dataset.csv' with your actual data file).
+Split the data into features (X) and labels (y).
+Standardize the features (optional but recommended).
+Create a Decision Tree classifier.
+Train the model using the training data.
+Make predictions on the test data.
+Evaluate the model’s accuracy and generate a classification report.
+Remember to preprocess your data, handle missing values, and fine-tune hyperparameters for better results. Additionally, consider exploring other algorithms like Logistic Regression, Random Forest, or Support Vector Machines for comparison.
+
+For a more comprehensive implementation, refer to the resources below:
+
+Chronic Kidney Disease Prediction Using Machine Learning Techniques1
+Kaggle Notebook: Predicting Chronic Kidney Disease2
+Analytics Vidhya Article: Predicting Chronic Kidney Disease3
